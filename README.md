@@ -26,6 +26,13 @@ Check what version you have:
 node -v
 ```
 
+# msci342-lab5-team10
+
+Description: Basic React App
+Production: <https://msci342-lab5-team10.netlify.app/>
+
+Dependencies are locked with a `yarn.lock` file, so please use `yarn` instead
+of `npm` to install them 
 
 # Getting Started with Create React App
 
